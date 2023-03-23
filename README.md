@@ -14,8 +14,6 @@
   <samp>
     <a href="https://www.linkedin.com/in/vishalkumar32/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="vishalkumar32"/></a>
     <a href="https://www.instagram.com/vi.shalrathod979/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="vi.shalrathod979"/></a>
-     <a href="https://www.twiter.com/vi.shalrathod979/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="vi.shalrathod979"/></a>
-     <a href="https://www.vishalkumar32.com/vi.shalrathod979/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="vi.shalrathod979"/></a>
   </samp>
 </p>
 
